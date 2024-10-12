@@ -1,2 +1,4 @@
-# num-guessr
-num-guessr is a number guessing game writen in c++
+# How to install and use 
+git clone this
+run `g++ num-guess.cpp -o num-guess` in terminal
+for always running it `./num-guess`
